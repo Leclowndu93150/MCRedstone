@@ -1,0 +1,43 @@
+{
+ "name": "dot",
+ "clock": "clk",
+ "inputs": [
+  {
+   "name": "left",
+   "width": 1,
+   "kind": "lever",
+   "key": "left",
+   "columns": 0
+  },
+  {
+   "name": "right",
+   "width": 1,
+   "kind": "lever",
+   "key": "right",
+   "columns": 0
+  },
+  {
+   "name": "up",
+   "width": 1,
+   "kind": "lever",
+   "key": "up",
+   "columns": 0
+  },
+  {
+   "name": "down",
+   "width": 1,
+   "kind": "lever",
+   "key": "down",
+   "columns": 0
+  }
+ ],
+ "outputs": [
+  {
+   "name": "screen",
+   "width": 16,
+   "kind": "matrix",
+   "key": null,
+   "columns": 4
+  }
+ ]
+}

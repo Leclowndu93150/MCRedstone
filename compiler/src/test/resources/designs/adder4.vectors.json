@@ -1,0 +1,5645 @@
+{
+ "inputs": [
+  "a",
+  "b",
+  "cin"
+ ],
+ "outputs": [
+  "sum",
+  "cout"
+ ],
+ "steps": [
+  {
+   "set": {
+    "a": 0,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 0,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 1,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 2,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 3,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 4,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 5,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 6,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 7,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 8,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 9,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 10,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 11,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 12,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 13,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 14,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 0,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 0
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 0,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 1,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 0,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 1,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 2,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 1,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 2,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 3,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 2,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 3,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 4,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 3,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 4,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 5,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 4,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 5,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 6,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 5,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 6,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 7,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 6,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 7,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 8,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 7,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 8,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 9,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 8,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 9,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 10,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 9,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 10,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 11,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 10,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 11,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 12,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 11,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 12,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 13,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 12,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 13,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 14,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 13,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 14,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 15,
+    "cin": 0
+   },
+   "expect": {
+    "sum": 14,
+    "cout": 1
+   }
+  },
+  {
+   "set": {
+    "a": 15,
+    "b": 15,
+    "cin": 1
+   },
+   "expect": {
+    "sum": 15,
+    "cout": 1
+   }
+  }
+ ]
+}

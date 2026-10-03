@@ -1,0 +1,20 @@
+{
+ "name": "lfsr16",
+ "clock": "clk",
+ "inputs": [
+  {
+   "name": "enable",
+   "width": 1,
+   "kind": "lever",
+   "key": null
+  }
+ ],
+ "outputs": [
+  {
+   "name": "state",
+   "width": 16,
+   "kind": "lamp",
+   "key": null
+  }
+ ]
+}

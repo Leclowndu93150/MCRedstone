@@ -1,0 +1,38 @@
+{
+ "name": "adder4",
+ "clock": "clk",
+ "inputs": [
+  {
+   "name": "a",
+   "width": 4,
+   "kind": "lever",
+   "key": null
+  },
+  {
+   "name": "b",
+   "width": 4,
+   "kind": "lever",
+   "key": null
+  },
+  {
+   "name": "cin",
+   "width": 1,
+   "kind": "lever",
+   "key": null
+  }
+ ],
+ "outputs": [
+  {
+   "name": "sum",
+   "width": 4,
+   "kind": "lamp",
+   "key": null
+  },
+  {
+   "name": "cout",
+   "width": 1,
+   "kind": "lamp",
+   "key": null
+  }
+ ]
+}

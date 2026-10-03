@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "mcredstone",
+  "version": "${version}",
+  "name": "MCRedstone",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/mcredstone/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.leclowndu93150.mcredstone.client.McredstoneClient"
+    ],
+    "main": [
+      "com.leclowndu93150.mcredstone.Mcredstone"
+    ]
+  },
+  "mixins": [
+    "mcredstone.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

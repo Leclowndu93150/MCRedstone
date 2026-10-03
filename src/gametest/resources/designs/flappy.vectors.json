@@ -1,0 +1,2573 @@
+{
+ "sequential": true,
+ "inputs": [
+  "flap",
+  "restart"
+ ],
+ "outputs": [
+  "screen",
+  "score"
+ ],
+ "steps": [
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352449591882055808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676226990669316160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338112404412964896,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75854169056197945069584,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084528098955888648,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542264049511433220,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771132024738939394,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771132024738939394,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352449591882055808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676224791679615040,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338112404412964896,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169058396934770704,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927085091048909178888,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542266248501134340,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771132033328873986,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4740885568211392725249,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590879117803648,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676295435297488960,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338147726221901856,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073858849538064,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536929408122888,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464737550340,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833352590879117803648,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676295435297488960,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147726221901856,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169076057839239184,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536937997926408,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464737550340,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590879117803648,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295435297488960,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147717632098336,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073858815984144,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536929408122888,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268464737550340,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232351997954,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590879117803648,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295435297488960,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147717632098336,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75854169073858849538064,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536937997926408,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464737550340,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232352129026,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4740885567116175999489,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606824093049301321678978,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303412046524650660839490,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151706023262325330420256,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75853011631162665340944,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37926505815581366159368,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963252907799256237060,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481626456094356406786,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4740813226956256510209,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948604020981888,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 302231454974301993844800,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487151030411296,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863743575498559504,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778931871787782768648,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465935893874738180,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 302231454976501016969280,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465938092897862660,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444733530896890724866,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4722510599161544507649,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604499803436751406530688,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 311676187940041284141120,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 311676187940041284141120,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 311676187940041284141120,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 311676187940041284141120,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863745774521683984,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778932434737702635528,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889610051081950462980,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444733530896890724866,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4722510599161544507649,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833353153822628773888,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416820410624413532160,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151745231635865587941376,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 85298902039598374846464,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 85298902039598374846464,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 85298902039598374846464,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833352590881265287168,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676297635360931840,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338710668122259456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75854169076058107674624,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927085099879495630848,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542270663794360320,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232385552384,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232385552384,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590881265287168,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295436371230720,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147718168969216,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073859084419584,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536929542209538,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268464771105280,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134232385683456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567116226330624,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833352590879117803648,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676295435297488960,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338147717632098336,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073858815984144,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536929407991818,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464703995910,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232351998466,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567116176130049,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590872708907008,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295444927610880,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338147718202392576,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073859084550144,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536929575763968,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268464771235840,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232385552896,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4740885567116192776194,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590320772088448,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295160386043970,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338147580193022496,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073790096510994,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536895048256008,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268447524258820,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134223795618306,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4740885567111881163009,
+    "score": 3
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833352590320805642368,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676295168975978560,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147580226576416,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073790096642064,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536895048256008,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268447524258820,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134223795618306,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567120470966529,
+    "score": 4
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833352590872708907008,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295436337807360,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147718168838656,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073859084550144,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536929542210048,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464771104770,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134232385552386,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567116192776194,
+    "score": 5
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352590872675353088,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676295436337807360,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338147718168838656,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073859084419074,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37927084536929542209538,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18963542268464771104770,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9481771134232385552386,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567116192776704,
+    "score": 6
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948603987558528,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454974301993714240,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487150996856866,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863743575498428944,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871787749345288,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465935893908161540,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 7
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465938092897862660,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871787749345288,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18889465935893874607620,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151115727487150996987936,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465938092897862660,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18889465935893908161540,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863745774521683984,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18889465938092897862660,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454974302027268160,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75557863743575531982864,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778931871787749345288,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18889465935893908161540,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454976501016969280,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151115728050100950278176,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863745774521683984,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778932434737702635528,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18889465938092897862660,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454976501016969280,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151115727487159586791456,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75557863745774521683984,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 37778931871796339148808,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889465935893908161540,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444732967946937303554,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 604462909948612577362048,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 302231454976501016969280,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151115728050100950278176,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75558007858763574284304,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37778932434737702635528,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 18889610051081950462980,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 9444733530896890724866,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 4722366486172491907329,
+    "score": 0
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 606833353153820481290368,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 303416676297634287190080,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 151708338147726221901856,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 75854169073858849538064,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 37927084536929408122888,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 0,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 18963542268464703996420,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 9481771134232352129026,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 4740885567116175999489,
+    "score": 1
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 606833352449583292121218,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 303416676224791646060610,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 0
+   },
+   "expect": {
+    "screen": 151708338112395823030306,
+    "score": 2
+   }
+  },
+  {
+   "set": {
+    "flap": 1,
+    "restart": 1
+   },
+   "expect": {
+    "screen": 75854169056197911515154,
+    "score": 2
+   }
+  }
+ ]
+}

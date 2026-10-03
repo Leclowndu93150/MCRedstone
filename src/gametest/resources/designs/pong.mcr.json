@@ -1,0 +1,40 @@
+{
+ "name": "pong",
+ "clock": "clk",
+ "inputs": [
+  {
+   "name": "up",
+   "width": 1,
+   "kind": "lever",
+   "key": "up",
+   "columns": 0,
+   "scale": 1
+  },
+  {
+   "name": "down",
+   "width": 1,
+   "kind": "lever",
+   "key": "down",
+   "columns": 0,
+   "scale": 1
+  },
+  {
+   "name": "restart",
+   "width": 1,
+   "kind": "lever",
+   "key": "a",
+   "columns": 0,
+   "scale": 1
+  }
+ ],
+ "outputs": [
+  {
+   "name": "screen",
+   "width": 192,
+   "kind": "matrix",
+   "key": null,
+   "columns": 16,
+   "scale": 2
+  }
+ ]
+}

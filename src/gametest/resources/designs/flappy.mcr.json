@@ -1,0 +1,36 @@
+{
+ "name": "flappy",
+ "clock": "clk",
+ "inputs": [
+  {
+   "name": "flap",
+   "width": 1,
+   "kind": "lever",
+   "key": "up",
+   "columns": 0
+  },
+  {
+   "name": "restart",
+   "width": 1,
+   "kind": "lever",
+   "key": "a",
+   "columns": 0
+  }
+ ],
+ "outputs": [
+  {
+   "name": "screen",
+   "width": 80,
+   "kind": "matrix",
+   "key": null,
+   "columns": 8
+  },
+  {
+   "name": "score",
+   "width": 4,
+   "kind": "lamp",
+   "key": null,
+   "columns": 0
+  }
+ ]
+}

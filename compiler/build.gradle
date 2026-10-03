@@ -1,0 +1,39 @@
+plugins {
+    id 'java-library'
+    id 'application'
+}
+
+group = project.maven_group
+version = project.mod_version
+
+base {
+    archivesName = 'mcredstone-compiler'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.13.1'
+
+    testImplementation platform('org.junit:junit-bom:5.13.4')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+application {
+    mainClass = 'com.leclowndu93150.mcredstone.compiler.Main'
+    applicationDefaultJvmArgs = ['-Xmx4g']
+}
+
+tasks.withType(JavaCompile).configureEach {
+    it.options.encoding = 'UTF-8'
+    it.options.release.set(25)
+}
+
+test {
+    useJUnitPlatform()
+    maxHeapSize = '4g'
+    systemProperty 'mcr.bench', System.getProperty('mcr.bench', 'false')
+}

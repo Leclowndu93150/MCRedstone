@@ -1,0 +1,13 @@
+read_rtlil {name}.il
+hierarchy -top top
+proc
+flatten
+opt -full
+memory
+opt -full
+techmap
+opt -fast
+dfflegalize -cell $_DFF_P_ 01
+abc -g NOR
+opt_clean -purge
+write_json {name}.json

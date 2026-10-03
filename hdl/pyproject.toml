@@ -1,0 +1,12 @@
+[project]
+name = "mcrhdl"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["amaranth>=0.5,<0.6", "yowasp-yosys"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["mcrhdl"]

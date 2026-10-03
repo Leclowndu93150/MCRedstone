@@ -1,0 +1,13 @@
+{
+ "name": "counter8",
+ "clock": "clk",
+ "inputs": [],
+ "outputs": [
+  {
+   "name": "count",
+   "width": 8,
+   "kind": "lamp",
+   "key": null
+  }
+ ]
+}
